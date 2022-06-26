@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @gfiddle
-- 👀 I’m interested in ...learning
-- 🌱 I’m currently learning ... C++, Java, Swift, Python, HTML, CSS, and how to use github
-- 💞️ I’m looking to collaborate on ... whatever  find interesting
-- 📫 How to reach me ... here?
+Hello github! I am a computer science student, currently learning how all the popular tools and languages work.
+Most of my time is spent looking for a starting point in my software development journey. Here to build my little pile of code to show to the world! Cheers!
 
 <!---
 gfiddle/gfiddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
