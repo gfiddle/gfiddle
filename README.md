@@ -1,4 +1,3 @@
-<!doctype html>
 
 <html lang="en">
 <head>
@@ -22,7 +21,7 @@
 <li>This webpage</li>
 <li>A robot that does my chores</li>
 </ul>
-  <script src="js/scripts.js"></script>
+
 </body>
 </html>
 <h3>Just started this github journey... Will continue to add more later! ^_^</h3>
