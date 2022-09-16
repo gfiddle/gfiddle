@@ -6,37 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>A Small Introduction</title>
-  <meta name="description" content="A simple HTML5 Template for new projects.">
-  <meta name="Merlin" content="Magic">
-
-  <meta property="og:title" content="Hello There">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="A short introduction.">
-
-
-  <link rel="icon" href="favicon.ico">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-
-  <!--<link rel="stylesheet" href="css/styles.css">-->
-<style type="text/css">
-  body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(72, 56, 56);
-    color: rgb(210, 215, 159);
-}
-h1{
-
-color: rgb(66, 133, 91);
-}
-h2 {
-    color: rgb(144, 183, 125);
-}
-h3 {
-    color: rgb(144, 183, 125);
-}
-</style>
-</head>
+  
 
 <body>
   <!-- content here... -->
