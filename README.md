@@ -5,7 +5,7 @@
 <body>
   <!-- content here... -->
 
-<h1>Hello and welcome to my small slice of the internet</h1>
+<h1>Hello and welcome to one of my small slices of the internet</h1>
 <p>Just a software enginner student learning by doing... </p>
 
 <h2>Some of the things I that I enjoy doing:</h2>
