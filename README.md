@@ -11,7 +11,7 @@
 <h2>Some of the things I that I enjoy doing:</h2>
 
 <ul>
-<li><abbr title="So I can make the mulah!">Finishing my degree</abbr></li>
+<li><abbr title="So I can make the mulah!">Getting my degree</abbr></li>
 <li>Creating a small adventure horror game with my kid that consists of text-based, 2-D, and 3-D versions.</li>
 <li>Creating websites</li>
 <li>Building a robot that does my chores</li>
